@@ -1,5 +1,5 @@
 # engram
-ENGRAM stands for English grammar dictionary which is a dictionary for grammar.
+ENGRAM stands for English grammar reminder which is a dictionary for grammar.
 this app is an easy way to find grammar and data file will be updated later to  add more grammar on it as google translate give you instant translate, ENGRAM will give you the information needed about any  grammar you  want.
 
 To make sure the APP work  correctly:
