@@ -48,7 +48,7 @@ class Application(Frame):
         self.box = ttk.Combobox(self, textvariable=self.box_value,state = 'readonly')
         self.box['values'] = self.grammar_keys
         self.box.current(0)
-        self.box.grid(row=0, column=0, sticky="e")
+        self.box.grid(row=0, column=0, sticky=E)
         
         # the sign
         self.instruction = Label(self, text = "Choose the grammar:")
