@@ -1,6 +1,7 @@
 # Engram
-ENGRAM stands for English grammar reminder which is a dictionary for grammar.
-this app is an easy way to find grammar, ENGRAM will give you the information needed about any  grammar you  want offline.
+ENGRAM is an English grammar dictionary that help you find the grammar you want as fast as possible . It will help students learn English faster and the adults to know English more and more .
+
+The main idea of this APP is to make English easy for learners . Books may waste the learner time because of searching on it and ENGRAM came with the solution for this problem . you will find examples ,the grammar methods and when you could use the grammar .
 
 To make sure the APP work  correctly:
 1- make sure you have .Net Framework 4.5 or later.
